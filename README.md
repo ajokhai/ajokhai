@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajokhai
 - 👀 I’m interested in Javascript, Node.js, Arduino and Basically anything with an algorithm.
 - 🌱 I’m currently learning Project development and management.
-- 💞️ I’m looking to collaborate on COmmunity Projects and Designs
+- 💞️ I’m looking to collaborate on Community Projects and Designs
 - 📫 How to reach me? Shoot me an email at contact@ajokhai.com
 
 <!---
