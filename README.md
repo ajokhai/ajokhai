@@ -1,4 +1,4 @@
-<h1>- 👋 Hi, I’m @ajokhai</h1>
+<h1>👋 Hi, I’m Josh aka ajokhai</h1>
 - 👀 I’m interested in Javascript, Node.js, Arduino and Basically anything with an algorithm.
 - 🌱 I’m currently learning Project development and management.
 - 💞️ I’m looking to collaborate on Community Projects and Designs
